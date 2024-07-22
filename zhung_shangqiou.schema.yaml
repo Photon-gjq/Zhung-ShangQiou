@@ -65,7 +65,7 @@ speller:
     - 'derive/^(.*)<$/$1,/'
 
 translator:
-  dictionary: zhung
+  dictionary: zhung_shangqiou
   #spelling_hints: 4
   preedit_format:
     - 'xform ([aeiou])(l|ng?)([:;<,/\\]) $1$3$2'
